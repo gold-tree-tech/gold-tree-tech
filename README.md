@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=24&duration=3000&pause=1200&color=6C8EBF&center=true&vCenter=true&width=720&height=50&lines=Applied+AI+Research+%26+Engineering;Data+Engineering+%26+Evaluation;Full+Stack+Systems;From+Idea+to+Evidence+to+Product" alt="Applied AI Research and Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=4CC9F0&center=true&vCenter=true&width=720&height=50&lines=Applied+AI+Research+%26+Engineering;Data+Engineering+%26+Evaluation;Full+Stack+Systems;From+Idea+to+Evidence+to+Product" alt="Applied AI Research and Engineering" />
 </p>
 
-<p align="center"><img src="assets/idea-to-product.svg" width="100%" alt="Figure 1: from an observed problem to a product validated by evidence" /></p>
+<p align="center"><img src="assets/blueprint.svg" width="100%" alt="Recursive blueprint: every idea opens a deeper one" /></p>
 
 ### Research and engineering interests
 
